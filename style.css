@@ -16,6 +16,13 @@ h1{
 	color:purple;
 	border-radius: 25px;
 }
+
+h2{
+	color: black;
+}
+h2:hover{
+	color: red;
+}
 section{
 	font-family: Montserrat;
 	background-image:url("section.jpg");
@@ -38,6 +45,10 @@ footer{
 	font-family:  Montserrat;
 	color: white;
 	padding-bottom: 5px;
+	text-align: center;
+}
+a:hover{
+	color: red;
 }
 p{
 	font-family:  Montserrat;
