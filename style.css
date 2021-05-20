@@ -1,0 +1,44 @@
+.shift{
+	background-color: black;
+	color: white;
+	text-align: right;
+	font-family: Montserrat;
+	padding: 10px;
+	border-radius: 10px;
+}
+h1{
+	font-family: Montserrat;
+	text-align: center;
+	background-image:url("h1.jpg");
+	padding: 30px;
+	background-size:cover;
+	background-repeat: no-repeat;
+	color:purple;
+	border-radius: 25px;
+}
+section{
+	font-family: Montserrat;
+	background-image:url("section.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	border-radius: 15px;
+}
+footer{
+	background-color: black;
+	border-radius: 25px;
+}
+.footer{
+	font-family:  Montserrat;
+	color: white;
+	padding-left: 35px;
+	padding-top: 4px;
+}
+#copyright{
+	font-family:  Montserrat;
+	color: white;
+	padding-bottom: 5px;
+}
+p{
+	font-family:  Montserrat;
+	font-weight: bold;
